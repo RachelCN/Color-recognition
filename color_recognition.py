@@ -1,8 +1,5 @@
 
 
-
-# PROJECT BY RACHEL C.N
-
 # importing libraries
 
 import numpy as np
